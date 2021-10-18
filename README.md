@@ -1,5 +1,3 @@
-TODO : Add a banner
-
 <h1 align="center">Hi, I'm Dayton Schuh <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> </h1>
 
 <h3 align="center">I graduated from California State University, Fullerton with my bachelor's degree in computer science.
@@ -17,5 +15,3 @@ I have a lot to learn and a lot of room to grow, but that's the best part!</h3>
 - 💬 Ask me about **Object Oriented Programming**
 
 - 📫 How to reach me **daytonschuh@gmail.com**
-
-- ⚡ Fun fact **I'm working on a game called Project Ragnarok**
