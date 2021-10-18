@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dayton Schuh <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> </h1>
+<h1 align="center">Hi, I'm Dayton Schuh</h1>
 
 <h3 align="center">I graduated from California State University, Fullerton with my bachelor's degree in computer science.
 My obsession with video games led me to where I am now -- a software developer passionate about making life simple and fun.
